@@ -29,8 +29,8 @@ export const mockedSongs : ISong[] = [
     },
     {
         id: 2,
-        title: "Drive Breakbeat",
-        author: "Rockot",
+        title: "Anh chỉ muốn",
+        author: "Ronboogz",
         time: 109,
         genre: "Boom Boom",
         source : "audio/anhchimuon.mp3",
@@ -38,8 +38,8 @@ export const mockedSongs : ISong[] = [
     },
     {
         id: 3,
-        title: "Titanium",
-        author: "AlisiaBeats",
+        title: "Hai đứa trẻ",
+        author: "Rongboogz",
         time: 106,
         genre: "Wave",
         source : "audio/hai.mp3",
